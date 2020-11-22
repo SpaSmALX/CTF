@@ -1,0 +1,2 @@
+ssh bandit13@bandit.labs.overthewire.org -p2220
+pass: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
