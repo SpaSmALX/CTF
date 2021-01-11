@@ -1,2 +1,2 @@
-ssh bandit24@bandit.labs.overthewire.org -p2220
-pass: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+ssh bandit25@bandit.labs.overthewire.org -p2220
+pass: uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
